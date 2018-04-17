@@ -6,7 +6,8 @@ require 'csv'
 require 'dotenv'
 require 'google_drive'
 
-# Scrap the informations on the "Mairie" page
+# ATTENTION L UPLOAD SUR DRIVE DURE PLUS DE 3 MINUTES
+# Scrap les informations sur l annuaire des "Mairie"s 
 def mairie (lien_mairie)
   begin
     mairie_page = Nokogiri::HTML(open(lien_mairie))
