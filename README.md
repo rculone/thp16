@@ -34,8 +34,7 @@ Firefox, Safari, Chrome, Internet Explorer 8, ...
 
 ## Contributors
 
-* Andreas : https://github.com/
-
+* Andreas : https://github.com/andreasbanelli
 * Tiffany : https://github.com/
 
 * Lucas : https://github.com/
