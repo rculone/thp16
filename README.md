@@ -38,10 +38,11 @@ Firefox, Safari, Chrome, Internet Explorer 8, ...
 
 * Tiffany : https://github.com/
 
-* Alexandra : https://github.com/
+* Lucas : https://github.com/
 
+* Juliane : https://github.com/
 
-* Selma : https://github.com/
+* Fabien : https://github.com/rculone
 
 
 
