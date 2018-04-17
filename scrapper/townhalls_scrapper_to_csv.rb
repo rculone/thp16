@@ -5,9 +5,6 @@ require 'pry'
 require 'csv'
 require 'dotenv'
 
-#session.upload_from_file("/Users/quentinberson/THP/Google_Drive/hello.txt", "hello.txt", convert: false)
-
-#Il faut laisser tourner le script 1 minute. J'affiche tout d'un coup!
 
 def mairie (lien_mairie)
   begin
